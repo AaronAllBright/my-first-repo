@@ -1,30 +1,28 @@
-# This is a large heading
+# Aaron Burch
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Vancouver, in the province of British Columbia, in Canada.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+My favorite subjects are:
+- Psychology
+- Philosophy
+- Sociology
+- Popular Science and Physics
+- Computer Science
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+I like it. Especially:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. A good steak
+2. Creme Brule
+3. Bacon
+4. Ratatulie
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-nano README.md
+The best way to contact me is to howl into the night sky.
+
